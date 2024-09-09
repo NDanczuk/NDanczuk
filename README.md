@@ -55,7 +55,7 @@
 ###
 
 <p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=Life's+not+about+how+hard+of+a+hit+you+can+give...+it's+about+how+many+you+can+take+,+and+still+keep+mooving+forward.&author=Rocky+Balboa">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nightowl&animation=grow_out_in&quote=Life's+not+about+how+hard+of+a+hit+you+can+give...+it's+about+how+many+you+can+take,+and+still+keep+mooving+forward.&author=Rocky+Balboa">
 </p>
 
 ###
