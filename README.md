@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">Back-end:</h3>
+<h3 align="left"><u>Back-end:</u></h3>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h3 align="left">Softwares & Tools:</h3>
+<h3 align="left"><u>Softwares & Tools:</u></h3>
 
 ###
 
