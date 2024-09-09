@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a **_Back-end Software Developer_** at **_MM Tecnologia em Análise e Desenvolvimento de Sistemas_**</p>
+<p align="left">- 🔭 I’m working as a <b>Back-end Software Developer</b> at <b>MM Tecnologia em Análise e Desenvolvimento de Sistemas</b></p>
 
 ###
 
