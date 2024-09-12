@@ -21,7 +21,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="php logo"  />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
