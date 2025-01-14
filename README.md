@@ -38,6 +38,8 @@
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/graphql/E10098" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jest/E10098" height="40" alt="jest logo"  />
 </div>
 
 ###
