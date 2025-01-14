@@ -27,6 +27,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" height="40" alt="node logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
@@ -39,7 +41,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/graphql/E10098" height="40" alt="graphql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/jest/E10098" height="40" alt="jest logo"  />
+  <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="jest logo"  />
 </div>
 
 ###
