@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left"><u>Back-end:</u></h3>
+<h3 align="left"><u>Coding:</u></h3>
 
 ###
 
@@ -32,6 +32,8 @@
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="reactjs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
   <img width="12" />
