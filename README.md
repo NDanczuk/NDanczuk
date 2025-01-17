@@ -27,6 +27,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/assemblyscript/007AAC" height="40" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" height="40" alt="node logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
@@ -53,6 +55,10 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="docker logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
