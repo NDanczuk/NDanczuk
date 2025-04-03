@@ -27,8 +27,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/assemblyscript/007AAC" height="40" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" height="40" alt="node logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
